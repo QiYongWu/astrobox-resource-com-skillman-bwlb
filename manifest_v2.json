@@ -1,0 +1,129 @@
+{
+  "item": {
+    "id": "com.skillman.bwlb",
+    "restype": "quick_app",
+    "name": "保卫萝卜",
+    "description": "经典塔防游戏保卫萝卜，玩家需要在地图上的建造点布置炮塔，阻止一波波怪物靠近萝卜。\n多种炮塔：瓶子炮、便便、风扇、星星、火箭、冰冻星星、太阳等，不同炮塔拥有单体、减速、穿透、范围攻击等能力\n丰富的怪物图鉴，丰富的章节与关卡。\n实机演示：B站有我用米环​​​​​9Pro和米环​10的实机游玩视频。​\nv2.0.0\n新增内容：\n1、新增怪物窝系统，支持收集怪物蛋、孵化怪物、投喂食物和培养成长。\n2、新增怪物蛋掉落机制，通关战斗后有概率获得怪物蛋。\n3、新增背包页面，可查看食物、怪物蛋、神器武器等物品。\n4、新增商店页面，可使用萝卜币购买食物和部分神器武器。\n5、新增图鉴页面，支持查看怪物图鉴和武器图鉴。\n6、新增多种食物道具，用于提升怪物成长值。\n7、新增神器武器：爱神丘比特之箭、波塞冬三叉戟、阿瑞斯之剑。\n8、新增全怪物成熟收集奖励，完成怪物培养后可解锁阿瑞斯之剑。\n调整内容：\n1、调整部分关卡难度曲线，降低前中期卡关压力。\n2、优化战斗中特效显示位置，太阳、雪花、毒针等效果更贴近目标表现。\n3、优化炮塔子弹显示效果，包括子弹大小、发射位置和部分旋转表现。\n优化与修复：\n1、修复部分页面返回逻辑异常的问题。\n2、修复部分状态效果显示位置不准确的问题。\n3、优化页面渲染与列表展示，降低真机卡顿和内存压力。\n4、修复了已知的几个 bug。\n\nv2.1.0\n新增内容：\n1、关卡数量至260关。\n2、新增精灵玩法，精灵可以提供对局加成，包括但不限于：经济、伤害、减速时长等相关增益。\n\nv2.2.0\n新增内容：\n1、开启第2章《丛林》200+关卡。\n2、新增3种怪物，3种精灵，2种炮塔。",
+    "preview": [
+      "media/战斗1.png",
+      "media/战斗2.png",
+      "media/背包1.png",
+      "media/防守成功.png",
+      "media/商店.png",
+      "media/选择关卡.png",
+      "media/选择武器.png",
+      "media/选择章节1.png",
+      "media/选择章节2.png",
+      "media/选择章节3.png",
+      "media/战斗3.png",
+      "media/主页2.png",
+      "media/背包-精灵.png",
+      "media/商店-精灵.png",
+      "media/主页.png",
+      "media/S-选择武器.png",
+      "media/9-攻击2.png",
+      "media/9-攻击3.png",
+      "media/9-购买武器.png",
+      "media/9-选择章节3.png",
+      "media/分组_19.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/分组_3.png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电商品链接",
+      "url": "https://ifdian.net/item/bd88cf2c60a111f1acdf52540025c377",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(红米56).rpk",
+      "versionCode": 4
+    },
+    "xmrw5xring": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(红米56).rpk",
+      "versionCode": 4
+    },
+    "xmrw6": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(红米56).rpk",
+      "versionCode": 4
+    },
+    "xmb10": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环10).rpk",
+      "versionCode": 4
+    },
+    "xmb10nfc": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环10).rpk",
+      "versionCode": 4
+    },
+    "xmb10p": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环9Pro10Pro).rpk",
+      "versionCode": 4
+    },
+    "xmb11": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环10).rpk",
+      "versionCode": 4
+    },
+    "xmb11nfc": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环10).rpk",
+      "versionCode": 4
+    },
+    "xmb9": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环9).rpk",
+      "versionCode": 4
+    },
+    "xmb9p": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米环9Pro10Pro).rpk",
+      "versionCode": 4
+    },
+    "xmws3": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    },
+    "xmws4xring": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    },
+    "xmws441": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    },
+    "xmws4": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    },
+    "xmws541": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    },
+    "xmws5": {
+      "version": "2.2.0",
+      "file_name": "downloads/保卫萝卜2.2.0(米表S345).rpk.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
